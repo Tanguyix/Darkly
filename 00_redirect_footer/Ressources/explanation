@@ -1,0 +1,5 @@
+Dans le footer du site, il y a 3 liens de redirection vers les réseaux sociaux, dans lesquels le nom du site est en dur
+
+<a href="index.php?page=redirect&amp;site=twitter" class="icon fa-twitter"></a>
+
+On peut aisément changer ce lien et créer une nouvelle redirection

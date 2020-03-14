@@ -1,0 +1,2 @@
+Sur la page du sondage, il n'y a pas de validation des valeurs du formulaire
+Ainsi, on peut remplacer une des valeurs du select par une très grande valeur et ainsi fausser le sondage

@@ -1,0 +1,3 @@
+Sur la page de login, on cherche à se log en tant qu'admin (avec l'username admin, qui souvent est admin)
+Après quelques essais sur les mots de passe les plus courants, on génère un court script bash avec les mots de passe les plus courants (https://time.com/3672431/worst-passwords/)
+

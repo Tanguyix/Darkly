@@ -1,0 +1,3 @@
+Sur la page de reset du mot de passe, on trouve un formulaire caché (type: "hidden") du mail du webmaster vers lequel le mail sera envoyé
+
+On peut modifier cette valeur (soit directement dans l'HTML, soit en faisant apparaitre l'input) pour envoyer un mail à qui l'on souhaite
